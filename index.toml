@@ -459,3 +459,18 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "1cc27f5b9dfe2a8cd3b8d43df0466b8086300e7cbd516785daf8910cee502f6e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
+metafile = true
