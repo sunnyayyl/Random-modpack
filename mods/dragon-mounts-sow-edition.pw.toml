@@ -1,0 +1,13 @@
+name = "Dragon Mounts: SoW Edition"
+filename = "DragonMountsSoWEdition-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/viHEVBo5/versions/ssG8pZLz/DragonMountsSoWEdition-1.2.jar"
+hash-format = "sha512"
+hash = "66a805559a22d38328c2ef873ee40ea21b8d5132379b9b4f050f5afc7412e278678b1ba42f0327d499e2e24008aa3cc457f3a4a5232c1fbe8916064ec0238c24"
+
+[update]
+[update.modrinth]
+mod-id = "viHEVBo5"
+version = "ssG8pZLz"
