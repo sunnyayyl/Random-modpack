@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "0451dc4f6515b79d34787804283141613029af0de58e2769def4d70e3777625c"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
@@ -107,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "276e1986d17845723e3ff29ba3fab5ca02b3647b1ae85de612408d3aa621e997"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
 metafile = true
 
 [[files]]
@@ -173,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/happy-ghast.pw.toml"
+hash = "8c5cd669a2359acb7d181d1ee2f1e904846dcb0959074bc6000f001697617e5d"
 metafile = true
 
 [[files]]
@@ -282,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
@@ -357,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ce99f1de3591cde7ff20a2edfcd75f36d85c364ca5e169cbd92c4d9cff65e840"
+hash = "9ac19e450b2ab871a645079b185bdf976891c62702b4d3b07307941feee0632a"
 metafile = true
 
 [[files]]
@@ -392,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "88e6b3213a6bab1ad97c590235cddb43fad6e5696e9b7e87aac6db3f0c8d8e41"
+hash = "107f84db10d791aafb90e87d703bd267ede9b11a9c76490ccd1789f898411f01"
 metafile = true
 
 [[files]]
