@@ -1,0 +1,13 @@
+name = "Create Ultra"
+filename = "Create_Ultra_v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9wrMXul2/versions/TF4czhUS/Create_Ultra_v1.0.zip"
+hash-format = "sha512"
+hash = "0d1a4c80674e397cfa4d9df9795b8ce1374234418071e30fb64da0a04bc356bf7ed0d41785d7d3e4d6e096905aaadc2ddf4da5dfbf6d2644dd399a616bde9edb"
+
+[update]
+[update.modrinth]
+mod-id = "9wrMXul2"
+version = "TF4czhUS"
