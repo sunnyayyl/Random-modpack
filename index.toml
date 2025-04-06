@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/export.yml"
+hash = "d5b64d40b8e7d3c4e0e94964da9c6a5e6ce588f232d9a5d913ff70116c4fa536"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "51ea41bb630e8879457254ffc4967e3942dc75a9643b689373a745d1f47f3bb2"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "b8c8a9eac3bedc0a346247d10fc1b141ad16bc9721c5600e88d29066dd767845"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
