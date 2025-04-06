@@ -105,6 +105,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "0ddc386e8216df00c0f15e3c6f89e4b295e90722f4cb3fe09baa47e733045727"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
