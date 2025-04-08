@@ -25,6 +25,10 @@ file = "config/bclib/server.json"
 hash = "b8c8a9eac3bedc0a346247d10fc1b141ad16bc9721c5600e88d29066dd767845"
 
 [[files]]
+file = "mods/FastMove-1.20.1-1.0.8.jar"
+hash = "24ba3f05523f7a7710c1fdc29a2310a7ba8baa733a9c6668ec56fb3691d548a7"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
 metafile = true
@@ -192,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
-metafile = true
-
-[[files]]
-file = "mods/fastmove.pw.toml"
-hash = "eb6f90591c0f013822b97d58f6e28fe50c8134e575a15a4588a491531a574d64"
 metafile = true
 
 [[files]]
