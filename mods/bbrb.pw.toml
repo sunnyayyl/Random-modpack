@@ -1,0 +1,13 @@
+name = "Better Biome Reblend"
+filename = "betterbiomereblend-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xh8hkQmD/versions/qAIsaWTg/betterbiomereblend-1.4.2.jar"
+hash-format = "sha512"
+hash = "04f20d54c51329074bd71931c3aefdf0a58d6d0c7806f3fce85800055823eb6620416b8f28a69cc6e6a31658c3146332e71a71c00719ed80319b1ce80180a00c"
+
+[update]
+[update.modrinth]
+mod-id = "Xh8hkQmD"
+version = "qAIsaWTg"
